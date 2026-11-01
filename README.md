@@ -4,16 +4,16 @@
 
 Шаг 1: выбираем слой, на который хотим добавить объект
 
-<img src="images/1.jpg" alt="Инструмент метки" width="100">
+<img src="images/1.jpg" alt="Инструмент метки" width="180">
 
 Шаг 2: выбираем точку на карте и кликаем на неё и жмём "Add to map"
 
-<img src="images/4.jpg" alt="Add to map" width="100">
+<img src="images/4.jpg" alt="Add to map" width="180">
 
 Шаг 3: меняем название, добавляем комментарий
 
-<img src="images/5.jpg" alt="Кнопка редактирования" width="100">
+<img src="images/5.jpg" alt="Кнопка редактирования" width="180">
 
-<img src="images/6.jpg" alt="Название и комментарий" width="100">
+<img src="images/6.jpg" alt="Название и комментарий" width="180">
 
 Спасибо за ваш вклад! ❤️
